@@ -1,5 +1,7 @@
 # Changelog
 
+## [v0.9.1](https://github.com/waneal/ecschedule/compare/v0.3.1...v0.9.1) - 2023-03-08
+
 ## [v0.9.1](https://github.com/Songmu/ecschedule/compare/v0.9.0...v0.9.1) - 2023-02-22
 - chore: improve install guide by @paprika-mah in https://github.com/Songmu/ecschedule/pull/64
 - build(deps): bump golang.org/x/net from 0.2.0 to 0.7.0 by @dependabot in https://github.com/Songmu/ecschedule/pull/65
